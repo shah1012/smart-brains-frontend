@@ -12,7 +12,7 @@ import Clarifai from "clarifai";
 
 // CLERAIFI KEY
 const app = new Clarifai.App({
-  apiKey: "a0cf2b78e2a94053a36b7cce06e65a1c",
+  apiKey: "apiKey",
 });
 
 // REAL APP
